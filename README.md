@@ -8,7 +8,7 @@
 | Pulse 01  | Podcast com notebookLM: HT AI + Assessment de Maturidade AppSec                        | 🇧🇷           | [youtu.be/2-8pTJgyIME](https://youtu.be/2-8pTJgyIME)                                   |
 | Pulse 02  | Podcast com notebookLM: HT AI + Assessment de Maturidade AppSec                        | 🇵🇾 (espanhol) | [youtu.be/GHzsVfAoGuo](https://youtu.be/GHzsVfAoGuo)                                   |
 | Pulse 03  | Painel CVEs 2024/2025 da América do Sul                                                | 🇧🇷🇵🇾🇦🇷       | [github.com/cnetsec/south-america-cve-hall](https://github.com/cnetsec/south-america-cve-hall) |
-| Pulse 04  | Boas práticas de AppSec a partir de CVEs de South American Researchers                                         | 🌎           | [github.com/cnetsec/hacktiba-pulse04](https://github.com/cnetsec/hacktiba-pulse04)     |
+| Pulse 04  | Boas práticas de Cibersegurança a partir de CVEs de South American Researchers                                         | 🌎           | [github.com/cnetsec/hacktiba-pulse04](https://github.com/cnetsec/hacktiba-pulse04)     |
 
 ---
 
