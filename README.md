@@ -21,6 +21,7 @@
 - CATEI - Universidade Federal do Paraná  
 - CNetSec Research Labs  
 - Segura  
-- Conviso Application Security  
+- Conviso Application Security
+- Owasp Uruguay Chapter
 
 ---
