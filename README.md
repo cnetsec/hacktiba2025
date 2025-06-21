@@ -23,5 +23,7 @@
 - Segura  
 - Conviso Application Security
 - Owasp Uruguay Chapter
+- Chapéu de Palha Hacker Club
+- Cve Hunterd
 
 ---
